@@ -1,0 +1,2 @@
+goreleaser-example
+------------------
